@@ -1,5 +1,5 @@
 # Parser-Sql.ru
 
-node i
+npm i
 
 node start
